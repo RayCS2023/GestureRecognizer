@@ -1,11 +1,4 @@
-Raymond Chen
-20790117 r276chen
-macOS 11.5.2 (MacBook Pro 2018)
-Kotlin 1.5
-Android SDK API 31
-Android Studio 2021.3
-
-<div>Trashcan icon <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+Android App that recognizes user-inputted gestures.
 
 Instructions:
  - In the Addition page, click "ADD" button  to store a gesture in the library
